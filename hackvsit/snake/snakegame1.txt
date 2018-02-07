@@ -1,0 +1,35 @@
+<html>
+ <head>
+  <meta charset='utf-8'/>
+  	<link rel="stylesheet" href="css/style.css">
+
+	<style>
+body {background-color: #008080;}
+h1   {color: blue;}
+p    {color: red;}
+</style>
+ </head>
+ <body>
+  <div class= 'game'>
+  <div id = 'home'>
+    <canvas id='mycanvas' width='500' height='500'>
+    </canvas>
+    </div>
+    <p><strong><h1><b>Press start and have your breakfast! :)</b></h1></strong></p>
+    <button id='btn'>START</button>
+  </div>
+
+  <body background="http://blog.coghillcartooning.com/wp-content/uploads/2014/01/snake-cartoon-clip-art-540px.jpg" align ="right" width="200" heigth="200">
+
+  <script src="js/setting.js"></script>
+  <script src="js/draw.js"></script>
+  <script src="js/app.js"></script>
+  
+  
+<div class="bgimg w3-display-container w3-animate-opacity w3-text-white">
+  <div class="w3-display-topleft w3-padding-large w3-xlarge">
+	<a href="file:///F:/HackVSIT/main.html" target="_blank">BACK</a> 
+  </div>
+ </body>
+
+</html>

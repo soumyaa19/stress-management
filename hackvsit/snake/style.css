@@ -1,0 +1,43 @@
+#home {
+      width: 350px;
+      height: 350px;
+      background-image: url('../img/snake.png');
+      background-size: auto 350px;
+      background-repeat: no-repeat;
+      background-color: PaleGreen;
+      background-position: center center;
+      padding: 0;
+      margin: 10;
+
+    }
+    
+    button {
+      background-color: Indigo;
+      color: white;
+      border: none;
+      bottom: 0;
+      height: 30px;
+      font-size: 12pt;
+      float: left;
+      width: 90px;
+      margin: 10px 0 0 0;
+    }
+    button:hover {
+      background-color: orange;
+    }
+
+    button:disabled {
+      background-color: LightBlue;
+    }
+
+    p {
+      font-family: Trebuchet MS;
+      font-weight: bold;
+      width: 280px;
+      margin: 18px 0 5px 8px;
+      float: left;
+    }
+
+    .game {
+      margin: 0 auto;
+    }
